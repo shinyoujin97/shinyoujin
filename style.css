@@ -1,0 +1,54 @@
+* {
+  font-family: "Noto Sans KR", sans-serif;
+  list-style: none;
+  text-decoration: none;
+  border-collapse: collapse;
+  margin: 0px;
+  padding: 0px;
+  color: #000;
+}
+
+.intro_bg {
+  background-image: url("ssy66822.jpg");
+  width: cover;
+  height: 718px;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+}
+
+.header {
+  width: 1280px;
+  margin: auto;
+  background-color: white;
+}
+
+.bg-1 {
+  /* background-image: url("./img/001.jpg"); */
+  width: auto;
+  height: 718px;
+  background-color: aqua;
+}
+
+.bg-2 {
+  background-color: red;
+  /* background-image: url("./img/002.jpg"); */
+  width: cover;
+  height: 1000px;
+}
+
+.bg-3 {
+  background-color: blueviolet;
+  /* background-image: url("./img/003.jpg"); */
+  width: cover;
+  height: 100px;
+}
+
+.bg-4 {
+  background-color: coral;
+  /* background-image: url("./img/004.jpg"); */
+  width: cover;
+  height: 718px;
+}
